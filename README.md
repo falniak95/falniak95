@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Java Developer
 --------------
 
-I am currently working as a Backend & DevOps Team Leader at S'Aide Financial Tech. In this position I am responsible for developing Java: Spring Framework web API(s), managing servers that working our services on, and organization of my team's tasks with refactoring their codes. I have especially experienced Java and the UNIX Servers as very positive for more than 3 years. I would describe myself who is a responsible, patient, and problem solver personality.
+I am currently working as a Senior Backend Engineer at [Akbank](https://www.akbank.com/). In this position I am responsible for developing Java: Spring Framework web API(s), Mainframe offload projects from COBOL to Java, and helping my colleagues to solve their problems. I have especially experienced Java and the UNIX Servers as very positive for more than 3 years. I would describe myself who is a responsible, patient, and problem solver personality.
 
-*   🌍  I'm based in Istanbul
+*   🌍  I'm based in København🇩🇰
 *   ✉️  You can contact me at [furkan@alniak.com](mailto:furkan@alniak.com)
 
 ### Skills 
