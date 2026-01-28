@@ -25,6 +25,27 @@ I am currently working as a Senior Backend Engineer at [AMC Banking](https://www
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </p>
                     
+### Projects
+
+#### 🩺 DevDoctor
+Project-aware CLI tool that helps developers diagnose environment and setup issues.
+
+- Detects project types (Java, Node, Docker, etc.)
+- Runs environment and project checks
+- Supports config files (`.devdoctor.yml`)
+- JSON output for automation
+- Homebrew & curl install support
+- Includes `fix` command with safe suggestions
+
+🔗 Repo: https://github.com/falniak95/devdoctor  
+🛠 Tech: Java 17, Picocli, Maven, GitHub Actions
+
+---
+
+*(More projects coming soon – actively building tools and utilities.)*
+
+
+
 ### Socials              
                   
 <p align="left">        
@@ -33,10 +54,4 @@ I am currently working as a Senior Backend Engineer at [AMC Banking](https://www
 <a href="https://www.linkedin.com/in/furkanalniak" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.stackoverflow.com/users/4069644/furkan-alnıak" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
 <a href="https://www.twitter.com/furkanalniak" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-</p>
-
-### Support Me
-
-<p align="left">    
-<a href="https://www.buymeacoffee.com/furkan.alniak"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 </p>
