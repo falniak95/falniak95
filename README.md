@@ -30,20 +30,6 @@ I am currently working as a Senior Backend Engineer at [AMC Banking](https://www
 #### 🩺 DevDoctor
 Project-aware CLI tool that helps developers diagnose environment and setup issues.
 
-- Detects project types (Java, Node, Docker, etc.)
-- Runs environment and project checks
-- Supports config files (`.devdoctor.yml`)
-- JSON output for automation
-- Homebrew & curl install support
-- Includes `fix` command with safe suggestions
-
-🔗 Repo: https://github.com/falniak95/devdoctor  
-🛠 Tech: Java 17, Picocli, Maven, GitHub Actions
-
----
-
-*(More projects coming soon – actively building tools and utilities.)*
-
 
 
 ### Socials              
