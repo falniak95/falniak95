@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Java Developer
 --------------
 
-I am currently working as a Senior Backend Engineer at [AMC Banking](https://www.amcbanking.com/). I have especially experienced Java and the UNIX Servers as very positive for more than 8 years. I would describe myself who is a responsible, patient, and problem solver personality.
+I am currently working as a Senior Java Developer at [Flatpay](https://www.flatpay.com/). I have especially experienced Java and the UNIX Servers as very positive for more than 8 years. I would describe myself who is a responsible, patient, and problem solver personality.
 
 *   🌍  I'm based in København🇩🇰
 *   ✉️  You can contact me at [furkan@alniak.com](mailto:furkan@alniak.com)
